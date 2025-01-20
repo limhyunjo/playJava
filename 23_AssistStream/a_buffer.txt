@@ -1,0 +1,2 @@
+This is a BufferedStream
+줄바꿈이 적용되었나요?
